@@ -1,0 +1,7 @@
+C:\Users\HP COMPAQ\Desktop\Les projets\Events\Events\bin\Debug\Events.exe.config
+C:\Users\HP COMPAQ\Desktop\Les projets\Events\Events\bin\Debug\Events.exe
+C:\Users\HP COMPAQ\Desktop\Les projets\Events\Events\bin\Debug\Events.pdb
+C:\Users\HP COMPAQ\Desktop\Les projets\Events\Events\obj\Debug\Events.csprojAssemblyReference.cache
+C:\Users\HP COMPAQ\Desktop\Les projets\Events\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+C:\Users\HP COMPAQ\Desktop\Les projets\Events\Events\obj\Debug\Events.exe
+C:\Users\HP COMPAQ\Desktop\Les projets\Events\Events\obj\Debug\Events.pdb

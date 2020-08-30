@@ -1,0 +1,7 @@
+C:\Users\HP COMPAQ\Desktop\Les projets\Intro_In_Classe\Intro_In_Classe\bin\Debug\Intro_In_Classe.exe.config
+C:\Users\HP COMPAQ\Desktop\Les projets\Intro_In_Classe\Intro_In_Classe\bin\Debug\Intro_In_Classe.exe
+C:\Users\HP COMPAQ\Desktop\Les projets\Intro_In_Classe\Intro_In_Classe\bin\Debug\Intro_In_Classe.pdb
+C:\Users\HP COMPAQ\Desktop\Les projets\Intro_In_Classe\Intro_In_Classe\obj\Debug\Intro_In_Classe.csprojAssemblyReference.cache
+C:\Users\HP COMPAQ\Desktop\Les projets\Intro_In_Classe\Intro_In_Classe\obj\Debug\Intro_In_Classe.csproj.CoreCompileInputs.cache
+C:\Users\HP COMPAQ\Desktop\Les projets\Intro_In_Classe\Intro_In_Classe\obj\Debug\Intro_In_Classe.exe
+C:\Users\HP COMPAQ\Desktop\Les projets\Intro_In_Classe\Intro_In_Classe\obj\Debug\Intro_In_Classe.pdb

@@ -1,0 +1,7 @@
+C:\Users\HP COMPAQ\Desktop\Les projets\Struct_And_Enum\Struct_And_Enum\bin\Debug\Struct_And_Enum.exe.config
+C:\Users\HP COMPAQ\Desktop\Les projets\Struct_And_Enum\Struct_And_Enum\bin\Debug\Struct_And_Enum.exe
+C:\Users\HP COMPAQ\Desktop\Les projets\Struct_And_Enum\Struct_And_Enum\bin\Debug\Struct_And_Enum.pdb
+C:\Users\HP COMPAQ\Desktop\Les projets\Struct_And_Enum\Struct_And_Enum\obj\Debug\Struct_And_Enum.csprojAssemblyReference.cache
+C:\Users\HP COMPAQ\Desktop\Les projets\Struct_And_Enum\Struct_And_Enum\obj\Debug\Struct_And_Enum.csproj.CoreCompileInputs.cache
+C:\Users\HP COMPAQ\Desktop\Les projets\Struct_And_Enum\Struct_And_Enum\obj\Debug\Struct_And_Enum.exe
+C:\Users\HP COMPAQ\Desktop\Les projets\Struct_And_Enum\Struct_And_Enum\obj\Debug\Struct_And_Enum.pdb

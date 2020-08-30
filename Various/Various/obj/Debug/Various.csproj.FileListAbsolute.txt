@@ -1,0 +1,7 @@
+C:\Users\HP COMPAQ\Desktop\Les projets\Various\Various\bin\Debug\Various.exe.config
+C:\Users\HP COMPAQ\Desktop\Les projets\Various\Various\bin\Debug\Various.exe
+C:\Users\HP COMPAQ\Desktop\Les projets\Various\Various\bin\Debug\Various.pdb
+C:\Users\HP COMPAQ\Desktop\Les projets\Various\Various\obj\Debug\Various.csprojAssemblyReference.cache
+C:\Users\HP COMPAQ\Desktop\Les projets\Various\Various\obj\Debug\Various.csproj.CoreCompileInputs.cache
+C:\Users\HP COMPAQ\Desktop\Les projets\Various\Various\obj\Debug\Various.exe
+C:\Users\HP COMPAQ\Desktop\Les projets\Various\Various\obj\Debug\Various.pdb

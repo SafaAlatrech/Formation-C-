@@ -1,0 +1,7 @@
+C:\Users\HP COMPAQ\Desktop\Les projets\New_And_Override\New_And_Override\obj\Debug\New_And_Override.csprojAssemblyReference.cache
+C:\Users\HP COMPAQ\Desktop\Les projets\New_And_Override\New_And_Override\obj\Debug\New_And_Override.csproj.CoreCompileInputs.cache
+C:\Users\HP COMPAQ\Desktop\Les projets\New_And_Override\New_And_Override\bin\Debug\New_And_Override.exe.config
+C:\Users\HP COMPAQ\Desktop\Les projets\New_And_Override\New_And_Override\bin\Debug\New_And_Override.exe
+C:\Users\HP COMPAQ\Desktop\Les projets\New_And_Override\New_And_Override\bin\Debug\New_And_Override.pdb
+C:\Users\HP COMPAQ\Desktop\Les projets\New_And_Override\New_And_Override\obj\Debug\New_And_Override.exe
+C:\Users\HP COMPAQ\Desktop\Les projets\New_And_Override\New_And_Override\obj\Debug\New_And_Override.pdb

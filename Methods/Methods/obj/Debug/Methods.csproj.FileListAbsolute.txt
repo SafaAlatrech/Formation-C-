@@ -1,0 +1,7 @@
+C:\Users\HP COMPAQ\Desktop\Les projets\Methods\Methods\bin\Debug\Methods.exe.config
+C:\Users\HP COMPAQ\Desktop\Les projets\Methods\Methods\bin\Debug\Methods.exe
+C:\Users\HP COMPAQ\Desktop\Les projets\Methods\Methods\bin\Debug\Methods.pdb
+C:\Users\HP COMPAQ\Desktop\Les projets\Methods\Methods\obj\Debug\Methods.csprojAssemblyReference.cache
+C:\Users\HP COMPAQ\Desktop\Les projets\Methods\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\HP COMPAQ\Desktop\Les projets\Methods\Methods\obj\Debug\Methods.exe
+C:\Users\HP COMPAQ\Desktop\Les projets\Methods\Methods\obj\Debug\Methods.pdb

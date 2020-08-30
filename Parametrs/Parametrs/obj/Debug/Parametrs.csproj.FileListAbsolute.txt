@@ -1,0 +1,7 @@
+C:\Users\HP COMPAQ\Desktop\Les projets\Parametrs\Parametrs\bin\Debug\Parametrs.exe.config
+C:\Users\HP COMPAQ\Desktop\Les projets\Parametrs\Parametrs\bin\Debug\Parametrs.exe
+C:\Users\HP COMPAQ\Desktop\Les projets\Parametrs\Parametrs\bin\Debug\Parametrs.pdb
+C:\Users\HP COMPAQ\Desktop\Les projets\Parametrs\Parametrs\obj\Debug\Parametrs.csprojAssemblyReference.cache
+C:\Users\HP COMPAQ\Desktop\Les projets\Parametrs\Parametrs\obj\Debug\Parametrs.csproj.CoreCompileInputs.cache
+C:\Users\HP COMPAQ\Desktop\Les projets\Parametrs\Parametrs\obj\Debug\Parametrs.exe
+C:\Users\HP COMPAQ\Desktop\Les projets\Parametrs\Parametrs\obj\Debug\Parametrs.pdb

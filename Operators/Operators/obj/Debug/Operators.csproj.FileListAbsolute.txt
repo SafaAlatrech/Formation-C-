@@ -1,0 +1,7 @@
+C:\Users\HP COMPAQ\Desktop\Les projets\Operators\Operators\bin\Debug\Operators.exe.config
+C:\Users\HP COMPAQ\Desktop\Les projets\Operators\Operators\bin\Debug\Operators.exe
+C:\Users\HP COMPAQ\Desktop\Les projets\Operators\Operators\bin\Debug\Operators.pdb
+C:\Users\HP COMPAQ\Desktop\Les projets\Operators\Operators\obj\Debug\Operators.csprojAssemblyReference.cache
+C:\Users\HP COMPAQ\Desktop\Les projets\Operators\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+C:\Users\HP COMPAQ\Desktop\Les projets\Operators\Operators\obj\Debug\Operators.exe
+C:\Users\HP COMPAQ\Desktop\Les projets\Operators\Operators\obj\Debug\Operators.pdb

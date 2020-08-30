@@ -1,0 +1,7 @@
+C:\Users\HP COMPAQ\Desktop\Les projets\Conditions\Conditions\bin\Debug\Conditions.exe.config
+C:\Users\HP COMPAQ\Desktop\Les projets\Conditions\Conditions\bin\Debug\Conditions.exe
+C:\Users\HP COMPAQ\Desktop\Les projets\Conditions\Conditions\bin\Debug\Conditions.pdb
+C:\Users\HP COMPAQ\Desktop\Les projets\Conditions\Conditions\obj\Debug\Conditions.csprojAssemblyReference.cache
+C:\Users\HP COMPAQ\Desktop\Les projets\Conditions\Conditions\obj\Debug\Conditions.csproj.CoreCompileInputs.cache
+C:\Users\HP COMPAQ\Desktop\Les projets\Conditions\Conditions\obj\Debug\Conditions.exe
+C:\Users\HP COMPAQ\Desktop\Les projets\Conditions\Conditions\obj\Debug\Conditions.pdb
